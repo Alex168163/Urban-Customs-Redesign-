@@ -14,10 +14,16 @@ const archivo = Archivo({
   variable: "--font-archivo",
 });
 
+/**
+ * Body face. Not preloaded — the LCP element is the hero image, and 28KB of
+ * body font at High priority competes with it on a throttled connection. The
+ * display face stays preloaded so the headline never reflows.
+ */
 const source = Source_Sans_3({
   subsets: ["latin"],
   weight: ["400", "600"],
   display: "swap",
+  preload: false,
   variable: "--font-source",
 });
 

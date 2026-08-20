@@ -24,7 +24,7 @@ The guide's default was a static export plus a third-party form endpoint. This b
 ## The three rules
 
 1. **A form on every page.** Six pages, seven forms, plus one on the 404. Verified by test.
-2. **The homepage captures the lead.** At 375px the first form field sits 407px down the page — headline and form both above the fold, no scroll, no second click.
+2. **The homepage captures the lead.** At 375px the first form field sits 444px down the page — headline and form both above the fold, no scroll, no second click.
 3. **No conditional "if" openers.** `grep -rniE "\bif (you|your|yours|the customer)\b" ./content ./app ./components` returns zero. So does `grep -rni "can help!"`.
 
 ## Layout
@@ -55,7 +55,8 @@ content/                 all copy and data — editing copy never touches JSX
 
 public/assets/           111 images pulled from the live and staging sites
 docs/                    the original handoff package
-scripts/image-dimensions.mjs
+scripts/
+  audit.mjs  e2e.mjs  image-dimensions.mjs
 ```
 
 ## Design
@@ -86,7 +87,7 @@ The guide asked for something specific to the trade rather than a contractor tem
 - No duplicate element IDs, no unlabelled form controls, one `h1` per page, no skipped heading levels
 - No horizontal overflow at 375px; titles and meta descriptions within length
 
-Lighthouse: desktop **100 / 100 / 100 / 100**. Mobile **97** performance, **100** accessibility, **100** best practices, **100** SEO, CLS 0.004.
+Lighthouse mobile, all five public pages: **94–98** performance, **100** accessibility, **100** best practices, **100** SEO, CLS 0.004. Desktop **100** across the board.
 
 ## Before this goes live
 
