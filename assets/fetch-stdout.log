@@ -1,0 +1,106 @@
+Urban Customs asset fetch — Wed Aug 19 18:41:05 USMST 2026
+Source: https://urbancustomsaz.com/wp-content/uploads
+
+LOGOS
+  + urban-customs-new-logo-1200px.png                          16K
+  + urban-customs-new-logo-600px.png                           8.0K
+  + urban-customs-white-logo.png                               16K
+  + urban-customs-square-logo-800px.png                        16K
+
+BANNERS (homepage slider frames)
+  + floor-repair-slider.jpg                                    176K
+  + floor-refinishing-slider.jpg                               128K
+  + cabinet-installation-slider.jpg                            180K
+  + kitchen-remodeling-slider-02.jpg                           208K
+
+IMAGES
+  + interior-stone-installations-in-arizona.jpg                168K
+  + phoenix-flooring-installations-before-image.jpg            44K
+  + phoenix-flooring-installations-during-image.jpg            36K
+  + phoenix-flooring-installations-after-image.jpg             44K
+  + pic035-with-logo.jpg                                       52K
+  + pic007-with-logo.jpg                                       52K
+  + pic036-with-logo.jpg                                       64K
+  + Hardwood-Floor-Refinishing-Phoenix-AZ.jpg                  60K
+
+ICONS
+  + design.png                                                 12K
+  + installation-icon.png                                      12K
+  + warranty.png                                               12K
+  + check-mark-icon.png                                        4.0K
+
+BADGES
+  + Urban-Customs-Google-Button.png                            12K
+  + 169358-967-2.png                                           28K
+
+COUPONS (2026 specials)
+  + urban-customs-design-coupon-2026.jpg                       80K
+  + urban-customs-installation-coupon-2026.jpg                 80K
+  + urban-customs-free-shipping-coupon-2026.jpg                84K
+
+GALLERY (pic001-pic039, .jpg then .png)
+  + pic001-with-logo.jpg                                       56K
+  + pic002-with-logo.jpg                                       52K
+  + pic003-with-logo.jpg                                       48K
+  + pic004-with-logo.jpg                                       52K
+  + pic005-with-logo.jpg                                       64K
+  + pic006-with-logo.jpg                                       76K
+  + pic007-with-logo.jpg                                       52K
+  + pic008-with-logo.jpg                                       40K
+  + pic009-with-logo.jpg                                       76K
+  + pic010-with-logo.jpg                                       40K
+  + pic011-with-logo.jpg                                       44K
+  + pic012-with-logo.jpg                                       64K
+  + pic013-with-logo.jpg                                       56K
+  + pic014-with-logo.jpg                                       68K
+  + pic015-with-logo.jpg                                       56K
+  + pic016-with-logo.jpg                                       60K
+  + pic017-with-logo.jpg                                       60K
+  + pic018-with-logo.jpg                                       56K
+  + pic019-with-logo.jpg                                       48K
+  + pic020-with-logo.jpg                                       72K
+  + pic021-with-logo.jpg                                       44K
+  + pic022-with-logo.jpg                                       52K
+  + pic023-with-logo.jpg                                       64K
+  + pic024-with-logo.jpg                                       52K
+  + pic025-with-logo.jpg                                       60K
+  + pic026-with-logo.jpg                                       32K
+  + pic027-with-logo.jpg                                       56K
+  + pic028-with-logo.jpg                                       52K
+  + pic030-with-logo.jpg                                       48K
+  + pic031-with-logo.jpg                                       44K
+  + pic032-with-logo.jpg                                       36K
+  + pic033-with-logo.jpg                                       44K
+  + pic035-with-logo.jpg                                       52K
+  + pic036-with-logo.jpg                                       64K
+  - pic037-with-logo                                           (not found in 2019/09)
+  - pic038-with-logo                                           (not found in 2019/09)
+  - pic039-with-logo                                           (not found in 2019/09)
+
+GALLERY — refinishing photos (slug guesses)
+
+KITCHEN GALLERY (probing for upload folder)
+  not found in any probed folder
+
+STAGING SITE (agency redesign — newer logo, favicon, design photos)
+  + urban-customs-white-logo-300px.png                         8.0K
+  + urban-customs-favicon-300x300.png                          12K
+  + urban-customs-floor-designs-and-installations-img-01.jpg   160K
+  + urban-customs-floor-designs-and-installations-img-02.jpg   180K
+  + urban-customs-floor-designs-and-installations-img-03.jpg   164K
+  + urban-customs-floor-designs-and-installations-img-04.jpg   140K
+  probing for slider frames
+  + custom-flooring-slider.jpg                                 216K
+  + flooring-restoration-slider.jpg                            272K
+  + kitchen-cabinet-slider.jpg                                 268K
+
+─────────────────────────────────────────────
+Downloaded: 68    Failed: 13
+Report: /c/Users/aozzy/OneDrive/Desktop/Urban Customs Simple/fetch-report.txt
+
+Next:
+  1. Review fetch-report.txt and request any misses from the client
+  2. Confirm image rights before publishing
+  3. Convert to WebP and generate responsive sizes
+  4. Write real alt text for every image
+  5. Sample brand hex values from logos/urban-customs-new-logo-1200px.png

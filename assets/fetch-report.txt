@@ -1,0 +1,116 @@
+Urban Customs asset fetch — Wed Aug 19 18:41:05 USMST 2026
+Source: https://urbancustomsaz.com/wp-content/uploads
+
+LOGOS
+OK    https://urbancustomsaz.com/wp-content/uploads/2024/12/urban-customs-new-logo-1200px.png
+OK    https://urbancustomsaz.com/wp-content/uploads/2024/12/urban-customs-new-logo-600px.png
+OK    https://urbancustomsaz.com/wp-content/uploads/2024/12/urban-customs-white-logo.png
+OK    https://urbancustomsaz.com/wp-content/uploads/2024/12/urban-customs-square-logo-800px.png
+
+BANNERS (homepage slider frames)
+OK    https://urbancustomsaz.com/wp-content/uploads/2023/08/floor-repair-slider.jpg
+OK    https://urbancustomsaz.com/wp-content/uploads/2023/08/floor-refinishing-slider.jpg
+OK    https://urbancustomsaz.com/wp-content/uploads/2023/08/cabinet-installation-slider.jpg
+OK    https://urbancustomsaz.com/wp-content/uploads/2024/04/kitchen-remodeling-slider-02.jpg
+
+IMAGES
+OK    https://urbancustomsaz.com/wp-content/uploads/2024/05/interior-stone-installations-in-arizona.jpg
+OK    https://urbancustomsaz.com/wp-content/uploads/2024/06/phoenix-flooring-installations-before-image.jpg
+OK    https://urbancustomsaz.com/wp-content/uploads/2024/06/phoenix-flooring-installations-during-image.jpg
+OK    https://urbancustomsaz.com/wp-content/uploads/2024/06/phoenix-flooring-installations-after-image.jpg
+OK    https://urbancustomsaz.com/wp-content/uploads/2019/09/pic035-with-logo.jpg
+OK    https://urbancustomsaz.com/wp-content/uploads/2019/09/pic007-with-logo.jpg
+OK    https://urbancustomsaz.com/wp-content/uploads/2019/09/pic036-with-logo.jpg
+OK    https://urbancustomsaz.com/wp-content/uploads/2019/09/Hardwood-Floor-Refinishing-Phoenix-AZ.jpg
+
+ICONS
+OK    https://urbancustomsaz.com/wp-content/uploads/2019/09/design.png
+OK    https://urbancustomsaz.com/wp-content/uploads/2019/09/installation-icon.png
+OK    https://urbancustomsaz.com/wp-content/uploads/2019/09/warranty.png
+OK    https://urbancustomsaz.com/wp-content/uploads/2019/09/check-mark-icon.png
+
+BADGES
+OK    https://urbancustomsaz.com/wp-content/uploads/2019/09/Urban-Customs-Google-Button.png
+OK    https://urbancustomsaz.com/wp-content/uploads/2025/10/169358-967-2.png
+
+COUPONS (2026 specials)
+OK    https://urbancustomsaz.com/wp-content/uploads/2026/07/urban-customs-design-coupon-2026.jpg
+OK    https://urbancustomsaz.com/wp-content/uploads/2026/07/urban-customs-installation-coupon-2026.jpg
+OK    https://urbancustomsaz.com/wp-content/uploads/2026/07/urban-customs-free-shipping-coupon-2026.jpg
+
+GALLERY (pic001-pic039, .jpg then .png)
+OK    https://urbancustomsaz.com/wp-content/uploads/2019/09/pic001-with-logo.jpg
+OK    https://urbancustomsaz.com/wp-content/uploads/2019/09/pic002-with-logo.jpg
+OK    https://urbancustomsaz.com/wp-content/uploads/2019/09/pic003-with-logo.jpg
+OK    https://urbancustomsaz.com/wp-content/uploads/2019/09/pic004-with-logo.jpg
+OK    https://urbancustomsaz.com/wp-content/uploads/2019/09/pic005-with-logo.jpg
+OK    https://urbancustomsaz.com/wp-content/uploads/2019/09/pic006-with-logo.jpg
+OK    https://urbancustomsaz.com/wp-content/uploads/2019/09/pic007-with-logo.jpg
+OK    https://urbancustomsaz.com/wp-content/uploads/2019/09/pic008-with-logo.jpg
+OK    https://urbancustomsaz.com/wp-content/uploads/2019/09/pic009-with-logo.jpg
+OK    https://urbancustomsaz.com/wp-content/uploads/2019/09/pic010-with-logo.jpg
+OK    https://urbancustomsaz.com/wp-content/uploads/2019/09/pic011-with-logo.jpg
+OK    https://urbancustomsaz.com/wp-content/uploads/2019/09/pic012-with-logo.jpg
+OK    https://urbancustomsaz.com/wp-content/uploads/2019/09/pic013-with-logo.jpg
+OK    https://urbancustomsaz.com/wp-content/uploads/2019/09/pic014-with-logo.jpg
+OK    https://urbancustomsaz.com/wp-content/uploads/2019/09/pic015-with-logo.jpg
+OK    https://urbancustomsaz.com/wp-content/uploads/2019/09/pic016-with-logo.jpg
+OK    https://urbancustomsaz.com/wp-content/uploads/2019/09/pic017-with-logo.jpg
+OK    https://urbancustomsaz.com/wp-content/uploads/2019/09/pic018-with-logo.jpg
+OK    https://urbancustomsaz.com/wp-content/uploads/2019/09/pic019-with-logo.jpg
+OK    https://urbancustomsaz.com/wp-content/uploads/2019/09/pic020-with-logo.jpg
+OK    https://urbancustomsaz.com/wp-content/uploads/2019/09/pic021-with-logo.jpg
+OK    https://urbancustomsaz.com/wp-content/uploads/2019/09/pic022-with-logo.jpg
+OK    https://urbancustomsaz.com/wp-content/uploads/2019/09/pic023-with-logo.jpg
+OK    https://urbancustomsaz.com/wp-content/uploads/2019/09/pic024-with-logo.jpg
+OK    https://urbancustomsaz.com/wp-content/uploads/2019/09/pic025-with-logo.jpg
+OK    https://urbancustomsaz.com/wp-content/uploads/2019/09/pic026-with-logo.jpg
+OK    https://urbancustomsaz.com/wp-content/uploads/2019/09/pic027-with-logo.jpg
+OK    https://urbancustomsaz.com/wp-content/uploads/2019/09/pic028-with-logo.jpg
+OK    https://urbancustomsaz.com/wp-content/uploads/2019/09/pic030-with-logo.jpg
+OK    https://urbancustomsaz.com/wp-content/uploads/2019/09/pic031-with-logo.jpg
+OK    https://urbancustomsaz.com/wp-content/uploads/2019/09/pic032-with-logo.jpg
+OK    https://urbancustomsaz.com/wp-content/uploads/2019/09/pic033-with-logo.jpg
+OK    https://urbancustomsaz.com/wp-content/uploads/2019/09/pic035-with-logo.jpg
+OK    https://urbancustomsaz.com/wp-content/uploads/2019/09/pic036-with-logo.jpg
+FAIL  pic037-with-logo  (not found in 2019/09 as .jpg or .png)
+FAIL  pic038-with-logo  (not found in 2019/09 as .jpg or .png)
+FAIL  pic039-with-logo  (not found in 2019/09 as .jpg or .png)
+
+GALLERY — refinishing photos (slug guesses)
+NOTE  Three refinishing gallery photos had no exposed filenames.
+      Request them from the client if the guesses above missed.
+
+KITCHEN GALLERY (probing for upload folder)
+  not found in any probed folder
+FAIL  Kitchen gallery folder not located.
+      Filenames are arizona-kitchen-remodeling-by-urban-customs-img-001 through -010.
+      Pull them from the client, or from the rendered HTML of
+      https://urbancustomsaz.com/kitchen-remodeling/ (the images
+      are lazy-loaded, so read data-src / data-lazy-src attributes).
+
+STAGING SITE (agency redesign — newer logo, favicon, design photos)
+OK    https://webtechs-designs.com/UrbanCustoms/wp-content/uploads/2026/01/urban-customs-white-logo-300px.png
+OK    https://webtechs-designs.com/UrbanCustoms/wp-content/uploads/2026/01/urban-customs-favicon-300x300.png
+OK    https://webtechs-designs.com/UrbanCustoms/wp-content/uploads/2026/02/urban-customs-floor-designs-and-installations-img-01.jpg
+OK    https://webtechs-designs.com/UrbanCustoms/wp-content/uploads/2026/02/urban-customs-floor-designs-and-installations-img-02.jpg
+OK    https://webtechs-designs.com/UrbanCustoms/wp-content/uploads/2026/02/urban-customs-floor-designs-and-installations-img-03.jpg
+OK    https://webtechs-designs.com/UrbanCustoms/wp-content/uploads/2026/02/urban-customs-floor-designs-and-installations-img-04.jpg
+  probing for slider frames
+OK    https://webtechs-designs.com/UrbanCustoms/wp-content/uploads/2026/01/custom-flooring-slider.jpg
+OK    https://webtechs-designs.com/UrbanCustoms/wp-content/uploads/2026/01/flooring-restoration-slider.jpg
+OK    https://webtechs-designs.com/UrbanCustoms/wp-content/uploads/2026/01/kitchen-cabinet-slider.jpg
+NOTE  Six room-type images on /services/ (master bath, shower stall,
+      guest bathroom, living room, kitchen, patio) are lazy-loaded with
+      no exposed filenames. Request them from the client.
+
+─────────────────────────────────────────────
+Downloaded: 68    Failed: 13
+Report: /c/Users/aozzy/OneDrive/Desktop/Urban Customs Simple/fetch-report.txt
+
+Next:
+  1. Review fetch-report.txt and request any misses from the client
+  2. Confirm image rights before publishing
+  3. Convert to WebP and generate responsive sizes
+  4. Write real alt text for every image
+  5. Sample brand hex values from logos/urban-customs-new-logo-1200px.png

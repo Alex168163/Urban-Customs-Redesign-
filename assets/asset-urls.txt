@@ -1,0 +1,72 @@
+# Urban Customs — verified asset URLs
+# Every URL here was read directly from the live rendered HTML.
+#
+# Fallback if you would rather not run fetch-assets.sh:
+#   grep -v '^#' asset-urls.txt | grep -v '^$' | wget -i - -P ./downloaded
+#
+# This list contains the VERIFIED assets only. The 37 gallery images
+# (pic001-pic039, minus 029 and 034) and the 10 kitchen images need
+# folder probing — use fetch-assets.sh for those.
+
+# --- logos ---
+https://urbancustomsaz.com/wp-content/uploads/2024/12/urban-customs-new-logo-1200px.png
+https://urbancustomsaz.com/wp-content/uploads/2024/12/urban-customs-new-logo-600px.png
+https://urbancustomsaz.com/wp-content/uploads/2024/12/urban-customs-white-logo.png
+https://urbancustomsaz.com/wp-content/uploads/2024/12/urban-customs-square-logo-800px.png
+
+# --- banners (homepage slider frames) ---
+https://urbancustomsaz.com/wp-content/uploads/2023/08/floor-repair-slider.jpg
+https://urbancustomsaz.com/wp-content/uploads/2023/08/floor-refinishing-slider.jpg
+https://urbancustomsaz.com/wp-content/uploads/2023/08/cabinet-installation-slider.jpg
+https://urbancustomsaz.com/wp-content/uploads/2024/04/kitchen-remodeling-slider-02.jpg
+
+# --- images ---
+https://urbancustomsaz.com/wp-content/uploads/2024/05/interior-stone-installations-in-arizona.jpg
+https://urbancustomsaz.com/wp-content/uploads/2024/06/phoenix-flooring-installations-before-image.jpg
+https://urbancustomsaz.com/wp-content/uploads/2024/06/phoenix-flooring-installations-during-image.jpg
+https://urbancustomsaz.com/wp-content/uploads/2024/06/phoenix-flooring-installations-after-image.jpg
+https://urbancustomsaz.com/wp-content/uploads/2019/09/pic035-with-logo.jpg
+https://urbancustomsaz.com/wp-content/uploads/2019/09/pic007-with-logo.jpg
+https://urbancustomsaz.com/wp-content/uploads/2019/09/pic036-with-logo.jpg
+https://urbancustomsaz.com/wp-content/uploads/2019/09/Hardwood-Floor-Refinishing-Phoenix-AZ.jpg
+
+# --- icons (150x150 crops; try without the suffix for full size) ---
+https://urbancustomsaz.com/wp-content/uploads/2019/09/design-150x150.png
+https://urbancustomsaz.com/wp-content/uploads/2019/09/installation-icon-150x150.png
+https://urbancustomsaz.com/wp-content/uploads/2019/09/warranty-150x150.png
+https://urbancustomsaz.com/wp-content/uploads/2019/09/check-mark-icon-150x150.png
+
+# --- badges ---
+https://urbancustomsaz.com/wp-content/uploads/2019/09/Urban-Customs-Google-Button.png
+https://urbancustomsaz.com/wp-content/uploads/2025/10/169358-967-2.png
+
+# --- coupons (2026 specials) ---
+https://urbancustomsaz.com/wp-content/uploads/2026/07/urban-customs-design-coupon-2026-1024x512.jpg
+https://urbancustomsaz.com/wp-content/uploads/2026/07/urban-customs-installation-coupon-2026-1024x512.jpg
+https://urbancustomsaz.com/wp-content/uploads/2026/07/urban-customs-free-shipping-coupon-2026-1024x512.jpg
+
+# --- coupon PDFs (agency staging domain, not the client's own) ---
+https://webtechs-designs.com/UrbanCustoms/wp-content/uploads/2026/02/urban-customs-design-page-2026.pdf
+https://webtechs-designs.com/UrbanCustoms/wp-content/uploads/2026/02/urban-customs-installation-page-2026.pdf
+https://webtechs-designs.com/UrbanCustoms/wp-content/uploads/2026/02/urban-customs-free-shipping-page-2026.pdf
+
+# ============================================================
+# STAGING SITE (agency redesign) — newer assets
+# https://webtechs-designs.com/UrbanCustoms/wp-content/uploads/
+# Confirm the client owns these before publishing.
+# ============================================================
+
+# --- newest logo + favicon (sample brand green #127B00 from the logo) ---
+https://webtechs-designs.com/UrbanCustoms/wp-content/uploads/2026/01/urban-customs-white-logo-300px.png
+https://webtechs-designs.com/UrbanCustoms/wp-content/uploads/2026/01/urban-customs-favicon-300x300.png
+
+# --- custom design case study photos ---
+https://webtechs-designs.com/UrbanCustoms/wp-content/uploads/2026/02/urban-customs-floor-designs-and-installations-img-01.jpg
+https://webtechs-designs.com/UrbanCustoms/wp-content/uploads/2026/02/urban-customs-floor-designs-and-installations-img-02.jpg
+https://webtechs-designs.com/UrbanCustoms/wp-content/uploads/2026/02/urban-customs-floor-designs-and-installations-img-03.jpg
+https://webtechs-designs.com/UrbanCustoms/wp-content/uploads/2026/02/urban-customs-floor-designs-and-installations-img-04.jpg
+
+# Not listed: 3 slider frames (custom-flooring-slider, flooring-restoration-slider,
+# kitchen-cabinet-slider) and 6 room-type images on /services/. All lazy-loaded
+# with no exposed paths. fetch-assets.sh probes for the sliders; request the
+# room-type images from the client.
