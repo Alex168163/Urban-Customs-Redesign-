@@ -27,7 +27,12 @@ export default function ContactPage() {
 
       <section className="mx-auto max-w-[1240px] px-4 py-12 sm:px-6 lg:py-16">
         <div className="grid gap-10 lg:grid-cols-[1.1fr_0.9fr] lg:gap-14">
-          <LeadForm variant="full" location="contact" heading="Tell us about the project" />
+          <LeadForm
+            variant="full"
+            location="contact"
+            heading="Tell us about the project"
+            className="self-start"
+          />
 
           <div>
             <SectionHead eyebrow="Direct" title="Reach us any of these ways" className="border-t-0 pt-0" />

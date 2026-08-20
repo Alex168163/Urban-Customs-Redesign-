@@ -12,7 +12,7 @@ import { byName } from "@/content/reviews";
 
 export const metadata: Metadata = {
   title: "Flooring Installation & Refinishing Phoenix",
-  description: `Urban Customs is a licensed flooring contractor serving Phoenix, Glendale, Peoria, Surprise, Gilbert, and the wider Valley. Installation, refinishing, and repair. ${site.roc}. Call ${site.phone.display}.`,
+  description: `Licensed flooring contractor serving Phoenix, Glendale, Peoria, Surprise, and Gilbert. Installation, refinishing, and repair. Call ${site.phone.display}.`,
   alternates: { canonical: "/flooring" },
 };
 

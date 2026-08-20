@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     default: "Flooring Contractors Phoenix, AZ | Urban Customs",
     template: "%s | Urban Customs",
   },
-  description: `Urban Customs installs, refinishes, and repairs flooring and remodels kitchens across the Phoenix Valley. Family-run for ${site.yearsInBusiness} years. ${site.roc}. Call ${site.phone.display} for a free estimate.`,
+  description: `Flooring installation, refinishing, and kitchen remodeling across the Phoenix Valley. Family-run for ${site.yearsInBusiness} years. Call ${site.phone.display}.`,
   alternates: { canonical: "/" },
   openGraph: {
     type: "website",

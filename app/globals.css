@@ -48,8 +48,9 @@
 
 html {
   scroll-behavior: smooth;
-  /* Fixed header + sticky call bar — keep anchor targets clear of both. */
-  scroll-padding-top: 6rem;
+  /* Sticky header is 4.5rem tall on mobile, 6rem from sm up. Keep anchor
+     targets clear of it with room to spare. */
+  scroll-padding-top: 7.5rem;
 }
 
 body {

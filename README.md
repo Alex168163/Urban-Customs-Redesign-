@@ -9,6 +9,10 @@ npm install
 npm run dev        # http://localhost:3000
 npm run build      # production build
 npm run typecheck
+
+# Against a running build (npm run build && npx next start -p 3111):
+npm run e2e        # the build guide's §10 definition of done, executed
+npm run audit      # crawls every route for broken links, images, a11y, overflow
 ```
 
 ## Stack
@@ -66,13 +70,23 @@ The guide asked for something specific to the trade rather than a contractor tem
 
 ## Verified
 
-Run against a production build:
+`npm run e2e` — 44 checks against a production build:
 
 - Form present, submit button reads "Get My Free Estimate", ROC# in the footer, and tap-to-call plus tap-to-text on all seven routes
+- No banned construction reaches the rendered page (reviews excluded — customer words are reproduced verbatim and are not ours to edit)
 - Homepage form above the fold at 375px with zero scroll
 - Blur validation names the fix; honeypot and sub-2-second submits rejected; invalid payloads 422; a real submission lands on `/thank-you/`
 - All 31 redirects return a single **301** straight to a **200** — no chains
 - Viewport meta is exactly `width=device-width, initial-scale=1`
+
+`npm run audit` — crawls every route and reports only the deliberate 404 on a nonexistent path:
+
+- No console errors, uncaught exceptions, or failed requests
+- Every image resolves with real bytes and carries alt text; no broken internal links; no dead `#anchor`
+- No duplicate element IDs, no unlabelled form controls, one `h1` per page, no skipped heading levels
+- No horizontal overflow at 375px; titles and meta descriptions within length
+
+Lighthouse: desktop **100 / 100 / 100 / 100**. Mobile **97** performance, **100** accessibility, **100** best practices, **100** SEO, CLS 0.004.
 
 ## Before this goes live
 

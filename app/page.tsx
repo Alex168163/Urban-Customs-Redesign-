@@ -13,7 +13,7 @@ import { dim } from "@/content/image-dimensions";
 
 export const metadata: Metadata = {
   title: "Flooring Contractors Phoenix, AZ | Urban Customs",
-  description: `Urban Customs installs hardwood, tile, stone, and bamboo flooring and remodels kitchens across the Phoenix Valley. Family-run for ${site.yearsInBusiness} years. Call ${site.phone.display} for a free estimate.`,
+  description: `Hardwood, tile, stone, and bamboo flooring plus full kitchen remodels across the Phoenix Valley. Family-run for ${site.yearsInBusiness} years. Call ${site.phone.display}.`,
   alternates: { canonical: "/" },
 };
 
@@ -33,11 +33,20 @@ const homeReviews = [byName("Eric B."), byName("Laurie S."), byName("Adam B.")];
 export default function HomePage() {
   return (
     <>
+      {/*
+        "Phoenix flooring" reads as a company name, and there is already a
+        Phoenix Flooring trading in this market. The place name never sits
+        directly in front of "flooring" in visible copy — the eyebrow carries
+        the brand, the headline carries the trade and the wider geography.
+      */}
       <Hero
-        eyebrow={`Phoenix · Family-run since ${site.foundedYear}`}
+        eyebrow={`${site.name} · ${site.address.city}, ${site.address.state}`}
         headline={
           <>
-            Phoenix flooring and kitchen contractors, family-run for{" "}
+            Flooring and kitchen contractors across Arizona,{" "}
+            {/* Browsers break after a hyphen, which strands "family-" on its
+                own line. Keep the compound together. */}
+            <span className="whitespace-nowrap">family-run</span> for{" "}
             <span className="text-green-tint">{site.yearsInBusiness} years</span>.
           </>
         }

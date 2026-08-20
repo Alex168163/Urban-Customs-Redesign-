@@ -7,7 +7,10 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "audit": "node scripts/audit.mjs",
+    "e2e": "node scripts/e2e.mjs",
+    "image-dimensions": "node scripts/image-dimensions.mjs"
   },
   "dependencies": {
     "next": "16.3.1",

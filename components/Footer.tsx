@@ -15,7 +15,8 @@ export default function Footer() {
               alt={`${site.name} — flooring and remodeling`}
               width={600}
               height={132}
-              className="h-9 w-auto"
+              sizes="260px"
+              className="h-14 w-auto"
             />
             <p className="mt-4 max-w-xs text-sm text-slate-soft">
               {site.name} — flooring and kitchen contractors serving the Phoenix Valley.

@@ -21,7 +21,7 @@ export default function Header() {
 
   return (
     <header className="sticky top-0 z-50 border-b hairline bg-ink text-chalk">
-      <div className="mx-auto flex h-16 max-w-[1240px] items-center gap-4 px-4 sm:h-20 sm:px-6">
+      <div className="mx-auto flex h-18 max-w-[1240px] items-center gap-4 px-4 sm:h-24 sm:px-6">
         <Link href="/" className="shrink-0" aria-label={`${site.name} — home`}>
           <Image
             src="/assets/staging/urban-customs-white-logo-600px.png"
@@ -29,7 +29,8 @@ export default function Header() {
             width={600}
             height={132}
             priority
-            className="h-8 w-auto sm:h-10"
+            sizes="260px"
+            className="h-11 w-auto sm:h-14"
           />
         </Link>
 
