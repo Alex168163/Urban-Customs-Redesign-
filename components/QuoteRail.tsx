@@ -27,13 +27,13 @@ export default function QuoteRail({
 
       <div className="relative mx-auto grid max-w-[1240px] gap-10 px-4 py-16 sm:px-6 lg:grid-cols-[1.1fr_auto] lg:gap-16 lg:py-20">
         <div className="self-center">
-          <p className="eyebrow text-chalk/70">Free estimate</p>
+          <p className="eyebrow text-chalk/80">Free estimate</p>
           <h2 className="mt-3 text-2xl lg:text-3xl">{heading}</h2>
           <p className="mt-4 max-w-xl text-chalk/85">{body}</p>
 
           <dl className="mt-8 grid gap-px border hairline bg-chalk/20 sm:grid-cols-2">
             <div className="bg-walnut px-5 py-5">
-              <dt className="eyebrow text-chalk/60">Call</dt>
+              <dt className="eyebrow text-chalk/80">Call</dt>
               <dd className="mt-1">
                 <a
                   href={site.phone.href}
@@ -45,7 +45,7 @@ export default function QuoteRail({
               </dd>
             </div>
             <div className="bg-walnut px-5 py-5">
-              <dt className="eyebrow text-chalk/60">Text</dt>
+              <dt className="eyebrow text-chalk/80">Text</dt>
               <dd className="mt-1">
                 <a
                   href={site.text.href}
@@ -58,7 +58,7 @@ export default function QuoteRail({
             </div>
           </dl>
 
-          <p className="mt-6 font-mono text-2xs uppercase tracking-[0.16em] text-chalk/60">
+          <p className="mt-6 font-mono text-2xs uppercase tracking-[0.16em] text-chalk/80">
             {site.roc} · {site.yearsInBusiness} years in the Valley · Lifetime workmanship guarantee
           </p>
         </div>

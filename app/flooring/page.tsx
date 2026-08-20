@@ -98,11 +98,11 @@ export default function FlooringPage() {
               </p>
               <dl className="grid grid-cols-2 gap-px border hairline bg-chalk/20 !mt-8">
                 <div className="bg-walnut-deep px-5 py-4">
-                  <dt className="eyebrow text-chalk/60">Floor saved</dt>
+                  <dt className="eyebrow text-chalk/80">Floor saved</dt>
                   <dd className="mt-1 font-mono text-xl text-white">2,700 ft²</dd>
                 </div>
                 <div className="bg-walnut-deep px-5 py-4">
-                  <dt className="eyebrow text-chalk/60">Replaced</dt>
+                  <dt className="eyebrow text-chalk/80">Replaced</dt>
                   <dd className="mt-1 font-mono text-xl text-white">0 ft²</dd>
                 </div>
               </dl>
@@ -117,7 +117,7 @@ export default function FlooringPage() {
                     ratio="aspect-[4/3]"
                     sizes="(min-width: 1024px) 28vw, 50vw"
                   />
-                  <p className="mt-2 font-mono text-2xs uppercase tracking-[0.12em] text-chalk/60">
+                  <p className="mt-2 font-mono text-2xs uppercase tracking-[0.12em] text-chalk/80">
                     0{i + 1} — {["Opened up", "Pattern set", "Woven in", "Finished"][i]}
                   </p>
                 </li>

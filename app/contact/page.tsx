@@ -76,7 +76,7 @@ export default function ContactPage() {
 function Row({ label, children }: { label: string; children: React.ReactNode }) {
   return (
     <div className="grid gap-1 border-b hairline py-4 sm:grid-cols-[130px_1fr] sm:gap-6">
-      <dt className="eyebrow pt-1.5 text-slate">{label}</dt>
+      <dt className="eyebrow pt-1.5 text-slate-deep">{label}</dt>
       <dd>{children}</dd>
     </div>
   );

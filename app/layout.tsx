@@ -21,10 +21,17 @@ const source = Source_Sans_3({
   variable: "--font-source",
 });
 
+/**
+ * The mono face carries eyebrows, phone numbers and spec figures — all small,
+ * none of them the LCP element. Left unpreloaded so it stops competing with
+ * the hero image for bandwidth on a throttled connection; display:swap means
+ * the fallback shows first and the swap is invisible at this size.
+ */
 const plex = IBM_Plex_Mono({
   subsets: ["latin"],
   weight: ["500"],
   display: "swap",
+  preload: false,
   variable: "--font-plex",
 });
 

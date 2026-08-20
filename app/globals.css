@@ -20,8 +20,9 @@
   --color-chalk-deep: #e6e4dc;
   --color-walnut: #6a4326; /* wood tone — dark grounds, Quote Rail */
   --color-walnut-deep: #4a2d18;
-  --color-slate: #7c8471; /* soapstone grey-green — borders, secondary */
-  --color-slate-soft: #b6bbae;
+  --color-slate: #7c8471; /* soapstone grey-green — borders and rules only */
+  --color-slate-soft: #b6bbae; /* secondary text on ink */
+  --color-slate-deep: #5c6353; /* secondary text on chalk — 5.5:1, AA */
 
   --font-display: var(--font-archivo), "Archivo", system-ui, sans-serif;
   --font-body: var(--font-source), "Source Sans 3", system-ui, sans-serif;

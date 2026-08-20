@@ -8,7 +8,7 @@ export default function NotFound() {
     <section className="mx-auto max-w-[1240px] px-4 py-16 sm:px-6 lg:py-24">
       <div className="grid gap-12 lg:grid-cols-[1.1fr_420px] lg:gap-16">
         <div>
-          <p className="eyebrow text-slate">Error 404</p>
+          <p className="eyebrow text-slate-deep">Error 404</p>
           <h1 className="mt-4 text-3xl sm:text-4xl">That page has moved.</h1>
           <p className="mt-5 max-w-xl text-ink-soft">
             We rebuilt this site down to five pages, so a few old links land here. Everything is one of

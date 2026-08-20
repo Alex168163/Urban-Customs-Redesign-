@@ -37,7 +37,7 @@ export default function ThankYouPage() {
             </a>
           </div>
 
-          <p className="mt-10 border-t hairline pt-5 font-mono text-2xs uppercase tracking-[0.14em] text-chalk/60">
+          <p className="mt-10 border-t hairline pt-5 font-mono text-2xs uppercase tracking-[0.14em] text-chalk/80">
             {site.roc} · {site.hours.weekday}
           </p>
         </div>

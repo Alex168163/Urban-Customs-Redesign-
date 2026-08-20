@@ -71,7 +71,7 @@ export default function Hero({
 
         <div className="order-3 lg:order-3 lg:-mt-4 lg:max-w-xl">
           <p className="text-chalk/85">{subhead}</p>
-          <p className="mt-6 border-t hairline pt-4 font-mono text-2xs uppercase tracking-[0.14em] text-chalk/70">
+          <p className="mt-6 border-t hairline pt-4 font-mono text-2xs uppercase tracking-[0.14em] text-chalk/80">
             {footnote ?? `${site.roc} · ${site.yearsInBusiness} years · Lifetime workmanship guarantee`}
           </p>
         </div>

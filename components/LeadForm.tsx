@@ -108,7 +108,9 @@ export default function LeadForm({
 
     setStatus("sending");
     try {
-      const res = await fetch("/api/lead", {
+      // Trailing slash is deliberate: the site runs trailingSlash:true, so
+      // "/api/lead" costs an extra 308 round trip on every submission.
+      const res = await fetch("/api/lead/", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({

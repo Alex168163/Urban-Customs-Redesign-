@@ -122,7 +122,7 @@ export default function GalleryGrid({
               <LightboxButton onClick={() => step(-1)} label="Previous photo">
                 ←
               </LightboxButton>
-              <span className="font-mono text-2xs uppercase tracking-[0.14em] text-chalk/60">
+              <span className="font-mono text-2xs uppercase tracking-[0.14em] text-chalk/80">
                 {lightbox + 1} / {shown.length}
               </span>
               <LightboxButton onClick={() => step(1)} label="Next photo">
